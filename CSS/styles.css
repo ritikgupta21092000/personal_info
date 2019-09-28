@@ -29,10 +29,11 @@ p {
 }
 
 a {
-  color: #ff0000;
+  color: #00bdaa;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
+  font-size:20px;
 }
 
 a:hover {
