@@ -33,7 +33,7 @@ a {
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
-  
+
 }
 
 a:hover {
@@ -76,6 +76,7 @@ a:hover {
 
 .profile_picture {
   border-radius: 100%;
+  width: 150px !important;
 }
 
 .skill_picture {
